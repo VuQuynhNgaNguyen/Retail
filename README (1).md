@@ -25,8 +25,8 @@ This project explores a real-world **Online Retail** dataset using **SQL**, **Py
 ## 🛠️ Tools Used
 
 - **BigQuery SQL** for data cleaning and analysis
-- **Python (Pandas, Matplotlib, Seaborn)** for deeper data wrangling and charting *(in progress)*
-- **Tableau / Power BI** for interactive dashboards *(planned)*
+- **Python (Pandas, Matplotlib, Seaborn)** for deeper data wrangling and charting 
+- **Tableau / Power BI** for interactive dashboards 
 
 ---
 
