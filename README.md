@@ -1,7 +1,7 @@
 # 🛍️ Retail Analysis
 
 **Project Description**  
-This project explores a real-world **Online Retail** dataset using **SQL**, **Python**, and data visualization tools like **Tableau** and **Power BI**. The goal is to uncover sales trends, customer behavior, inventory issues, and drive business insights through data.
+This project explores a real-world **Retail** dataset using **SQL**, **Python**, and data visualization tools like **Tableau** and **Power BI**. The goal is to uncover sales trends, customer behavior, inventory issues, and drive business insights through data.
 
 ---
 
