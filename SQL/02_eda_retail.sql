@@ -1,8 +1,8 @@
--- EDA_RETAILS.SQL
--- Dataset: Online Retail Transactions
+-- EDA_RETAIL.SQL
+-- Dataset: Retail Transactions
 -- Purpose: Exploratory Data Analysis on cleaned retail data
--- Author: [Your Name]
--- Project: Retail Sales Analysis
+-- Author: Vu Quynh Nga NGUYEN
+-- Project: Retail Analysis
 -- Notes: Organized by analysis area - Revenue, Customer, RFM segmentation
 
 ----------------------------------------------------------------------------------------------
